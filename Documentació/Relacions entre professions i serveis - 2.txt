@@ -1,0 +1,49 @@
+AGRUPACIONES				PROFESIONES						TIPO DE SERVICIOS			SERVICIOS			
+                                                                
+Cuidador de mascotas		Profesional de medio ambiente	Servicios a mascotas		Pasear mascotas					
+							Profesional de zoologia										Adiestrar mascotas
+							Profesional de veterianaria									Cuidar/mantener mascotas
+							Personal no especializado 					
+                                                                
+Cuidador infantil/juvenil	Personal no especializado 		Servicios a niños/jóvenes	Acompañar a colegios/academias
+																						Cuidar/atender a niños/jóvenes
+
+Cuidador de adultos			Personal no especializado 		Servicios a adultos			Acompañar a adultos
+																						Cuidar/atender a adultos
+                                                               
+Monitor escolar				Profesor para infantil
+							Profesor para primaria			Servicios a estudiantes		Reforzar estudios			
+							Profesor para secundaria									Realizar deberes
+							Profesor para ESO						
+							Profesor para BATCHILLERATO
+							Profesor para CICLOS
+							Profesor para UNIVERSITARIOS
+								
+                                                                
+Animador socio-cultural										Servicios para actividades lúdicas	
+																						Organizar conciertos		
+							Animador socio-cultural										Organizar fiestas
+							DJ															Monitor de tiempo libre
+							Monitor de ludotecas										Monitor de juegos
+							Personal no especializado
+			
+                                                                
+Monitor deportivo											Servicios a deportistas				
+							CAFEMN														Monitor de gym/culturismo		
+							Acondicionamiento físico									Monitor de animación socio-deportivas
+																						Entrenador personal
+																						Monitor de actividades fisico-deportivas	
+                                                                
+Personal para recados/encargos	
+							Personal no especializado		Servicios de recados/encargos	
+																						Realizar recados/encargos			
+																						Realizar gestiones a terceros (CAP, Banco, Supermercado,...)
+                                                                
+							Cuidador de minusválidos/discapacitados 
+Personal sanitario			Auxiliar de enfermería										Atender a personas enfermas	
+							Cuidador sanitario				Servicios sanitarios a personas																								
+							Enfermero/a													Atender a niños/jóvenes
+							Fisioterapeuta												Atender a adultos
+							Nutricionista												Atender a personas minusvàlides/discapacitadas
+							Quiropráctico/Masajista
+							TCAI

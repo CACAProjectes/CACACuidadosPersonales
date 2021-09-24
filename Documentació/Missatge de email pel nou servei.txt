@@ -1,0 +1,34 @@
+Proposta de Servei per Juan
+Confirmació del Servei per Juan
+	
+Juan J. Campos,<br>
+S'ha sol·licitat un servei de <b>Serveis sanitaris a persones</b> per <b>Atendre a adults</b>.<br>
+	<br>
+En concret es tracta de <br>
+	&emsp;Se precisa un servicio per cuidar a una persona gran.<br>
+	&emsp;El detall del servei s'explica a continuació...<br>
+	<br>
+El professional és<br>
+	<b>&emsp;Elisenda Canals<br>
+	&emsp;626.924.434<br>
+	&emsp;campospulido@hotmail.com</b><br>
+	<br>
+El client és<br>
+	<b>&emsp;Juan J. Campos<br>
+	&emsp;626.924.434<br>
+	&emsp;elisendacanals@hotmail.com</b><br>
+	<br>
+L'agenda és <br>
+	<b>&emsp;12/03/2020 09:00 - 10:00<br>
+	<br>
+L'adreça del servei és<br>
+	<b>&emsp;C/Música 6, 2º-4ª<br>
+	&emsp;08191 Rubí<br>
+	&emsp;Barcelona</b><br>
+	<br>
+La tarifa per <b>Serveis sanitaris a persones</b> per <b>Atendre a adults</b> és<br>
+	<b>&emsp;20&euro;/hora</b><br>
+	<br>
+Heu de confirmar el servei en aquest enllaç <a href="#">Confirmació del Servei per <b>Juan</b></a> i a continuació, rebrà el email de confirmació.<br>
+	<br>
+Att. CuidPers<br>

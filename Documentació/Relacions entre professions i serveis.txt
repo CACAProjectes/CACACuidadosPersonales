@@ -1,0 +1,31 @@
+AGRUPACIONES					PROFESIONES						TIPO DE SERVICIOS				SERVICIOS					
+                                                                
+Cuidador de mascotas			Acompañante de mascotas			Servicios a mascotas			Atender a mascotas			
+								Cuidador de mascotas            
+                                                                
+Cuidador de personas			Acompañante a colegios			Servicios a personas			Atender a personas			
+								Cuidador de niños				
+								Cuidador de personas mayores    
+                                                                
+Monitor escolar					Profesor especializado			Servicios a escolares			Atender a escolares			
+								Profesor refuerzo escolar       
+								Profesor tareas escolares       
+                                                                
+Monitor de entretenimiento		Monitor de excursiones			Servicios de entretenimiento	Organizar excursiones		
+								Monitor de fiestas				Organización de fiestas/DJ		Organizar fiestas/DJ
+								Monitor de tiempo libre			
+                                                                
+Monitor deportivo				Entrenador personal				Servicios a deportistas			Atender a deportistas		
+								Monitor de gym/culturismo		
+								Monitor de zumba/fitness		
+                                                                
+Personal de recados				Recadero de compras				Servicios de recados			Realizar recados			
+								Recadero de gestiones           
+                                                                
+Personal sanitario				Auxiliar de enfermería			Servicios sanitarios			Atender a personas enfermas	
+								Cuidador sanitario				Servicios a personas			Atender a personas			
+								Enfermero/a
+								Fisioterapeuta
+								Nutricionista
+								Quiropráctico/Masajista
+								TCAI

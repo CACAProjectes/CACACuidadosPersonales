@@ -1,0 +1,5 @@
+# mysql -u root -p
+> SELECT host FROM mysql.user WHERE user = "root"
+> GRANT ALL ON cuidpersbbdd.* to 'root'@'les009584' IDENTIFIED BY 'Miquel_01';
+> FLUSH PRIVILEGES;
+> SELECT host FROM mysql.user WHERE user = "root";
