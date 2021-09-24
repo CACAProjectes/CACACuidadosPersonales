@@ -1,0 +1,36 @@
+
+	<div id="accordion">
+				
+		<div>
+			<button data-toggle="collapse" href="#collapse0" type="button" class="btn webcuidpers-menu-ver-button btn-block text-left btn-sm webcuidpers-grid-1">Servicios sanitarios a personas</button>
+			    <br/>
+			    <div id="collapse0" class="collapse show" data-parent="#accordion">
+			      	<div class="card-body" id="card-body-id0">	
+						<div class="custom-control custom-checkbox webcuidpers-cos-checkbox" >
+						    <input type="checkbox" class="custom-control-input" id="customCheck1" name="example1"/>
+						    <label class="custom-control-label" for="customCheck1">Atender a niños</label>
+						</div>
+					</div>
+			    </div>
+		</div>
+		<div>
+			<button data-toggle="collapse" href="#collapse1" type="button" class="btn webcuidpers-menu-ver-button btn-block text-left btn-sm webcuidpers-grid-1">Servicios sanitarios a personas</button>
+			    <br/>
+			    <div id="collapse1" class="collapse show" data-parent="#accordion">
+			      	<div class="card-body" id="card-body-id1">	
+						<div class="custom-control custom-checkbox webcuidpers-cos-checkbox" >
+						    <input type="checkbox" class="custom-control-input" id="customCheck1" name="example1"/>
+						    <label class="custom-control-label" for="customCheck1">Atender a niños</label>
+						</div>
+						<div class="custom-control custom-checkbox webcuidpers-cos-checkbox" >
+						    <input type="checkbox" class="custom-control-input" id="customCheck2" name="example2"/>
+						    <label class="custom-control-label" for="customCheck2">Atender a minusv./discapac.</label>
+						</div>
+						<div class="custom-control custom-checkbox webcuidpers-cos-checkbox" >
+						    <input type="checkbox" class="custom-control-input" id="customCheck3" name="example3"/>
+						    <label class="custom-control-label" for="customCheck3">Atender a adultos</label>
+						</div>
+					</div>
+			    </div>
+		</div>
+	</div>

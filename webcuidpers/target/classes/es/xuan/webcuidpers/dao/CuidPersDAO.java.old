@@ -1,0 +1,185 @@
+package es.xuan.webcuidpers.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+import es.xuan.webcuidpers.model.GrupFuncional;
+import es.xuan.webcuidpers.model.Professio;
+import es.xuan.webcuidpers.model.Servei;
+import es.xuan.webcuidpers.model.TipusServei;
+
+/**
+ * @author Juan J. Campos
+ */
+public class CuidPersDAO_old {
+
+    public List<TipusServei> findTipusServeisByGF(int pIdGF) {
+    	List<TipusServei> list = new ArrayList<TipusServei>();
+        Connection c = null;
+        /* Búsqueda de TipusServei a partir del grup funcional - ID grup funcional*/ 
+    	String sql = 
+    			"select ts.*  " + 
+    			"from tipusservei ts  " + 
+    			"	left join REL_GF_TIPSERV relgf on ts.id = relgf.id_tipusservei and ts.estat = 1 " + 
+    			"	left join grupfuncional gfu on relgf.id_grupfuncional = gfu.id and gfu.estat = 1 " + 
+    			"where gfu.id = ? " + 
+    			"order by ts.nom; ";
+	    try {
+	        c = ConnectionHelper.getConnection();
+	        PreparedStatement ps = c.prepareStatement(sql);
+	        ps.setInt(1, pIdGF);
+	        ResultSet rs = ps.executeQuery();
+	        while (rs.next()) {
+	            list.add(processRowTipusServei(rs));
+	        }
+	    } catch (SQLException e) {
+	        e.printStackTrace();
+	        throw new RuntimeException(e);
+		} finally {
+			ConnectionHelper.close(c);
+		}
+	    return list;
+    }
+
+    public List<Servei> findServeisByGF(int pIdGF) {
+    	List<Servei> list = new ArrayList<Servei>();
+        Connection c = null;
+        /* Búsqueda de serveis a partir del grup funcional - ID grup funcional*/ 
+    	String sql = 
+    			"select ser.* " + 
+    			"from servei ser " + 
+    			"	left join REL_TS_SERV relts on ser.id = relts.id_servei and ser.estat = 1 " + 
+    			"	left join tipusservei ts on relts.id_tipusservei = ts.id and ts.estat = 1 " + 
+    			"	left join REL_GF_TIPSERV relgf on ts.id = relgf.id_tipusservei " + 
+    			"	left join grupfuncional gfu on relgf.id_grupfuncional = gfu.id and gfu.estat = 1 " + 
+    			"where gfu.id = ? " + 
+    			"order by ser.nom; ";
+	    try {
+	        c = ConnectionHelper.getConnection();
+	        PreparedStatement ps = c.prepareStatement(sql);
+	        ps.setInt(1, pIdGF);
+	        ResultSet rs = ps.executeQuery();
+	        while (rs.next()) {
+	            list.add(processRowServei(rs));
+	        }
+	    } catch (SQLException e) {
+	        e.printStackTrace();
+	        throw new RuntimeException(e);
+		} finally {
+			ConnectionHelper.close(c);
+		}
+	    return list;
+    }
+
+	public List<GrupFuncional> findGrupsFuncionals() {
+    	List<GrupFuncional> list = new ArrayList<GrupFuncional>();
+        Connection c = null;
+        /* Búsqueda de grups funcionals - TOTS */ 
+    	String sql = "SELECT * FROM GrupFuncional WHERE estat = 1 ORDER BY nom";
+	    try {
+	        c = ConnectionHelper.getConnection();
+	        Statement s = c.createStatement();
+	        ResultSet rs = s.executeQuery(sql);
+	        while (rs.next()) {
+	            list.add(processRowGF(rs));
+	        }
+	    } catch (SQLException e) {
+	        e.printStackTrace();
+	        throw new RuntimeException(e);
+		} finally {
+			ConnectionHelper.close(c);
+		}
+	    return list;
+    }
+	
+	public List<Professio> findProfessions(int pIdGF) {
+	    List<Professio> list = new ArrayList<Professio>();
+	    Connection c = null;
+	    /* Búsqueda de professions - TOTS */ 
+		String sql = "SELECT Professio.* FROM REL_GF_PROF, Professio "
+				+ "WHERE "
+				+ "Professio.id = REL_GF_PROF.id_professio and " 	
+				+ "REL_GF_PROF.id_grupfuncional =  ? "
+				+ "ORDER BY Professio.nom";
+	    try {
+	        c = ConnectionHelper.getConnection();
+	        PreparedStatement ps = c.prepareStatement(sql);
+	        ps.setInt(1, pIdGF);
+	        ResultSet rs = ps.executeQuery();
+	        while (rs.next()) {
+	            list.add(processRowProfessio(rs));
+	        }
+	    } catch (SQLException e) {
+	        e.printStackTrace();
+	        throw new RuntimeException(e);
+		} finally {
+			ConnectionHelper.close(c);
+		}
+	    return list;
+	}
+	
+	public List<Professio> findProfessionsLang(String pIdioma, int pIdGF) {
+	    List<Professio> list = new ArrayList<Professio>();
+	    Connection c = null;
+	    /* Búsqueda de professions segons l'idioma - TOTS */ 
+		String sql = "SELECT Professio.* FROM REL_GF_PROF, Professio "
+				+ "WHERE "
+				+ "Professio.id = REL_GF_PROF.id_professio and " 	
+				+ "REL_GF_PROF.id_grupfuncional =  ? "
+				+ "ORDER BY Professio.nom";
+	    try {
+	        c = ConnectionHelper.getConnection();
+	        PreparedStatement ps = c.prepareStatement(sql);
+	        ps.setInt(1, pIdGF);
+	        ResultSet rs = ps.executeQuery();
+	        while (rs.next()) {
+	            list.add(processRowProfessio(rs));
+	        }
+	    } catch (SQLException e) {
+	        e.printStackTrace();
+	        throw new RuntimeException(e);
+		} finally {
+			ConnectionHelper.close(c);
+		}
+	    return list;
+	}
+	
+	protected GrupFuncional processRowGF(ResultSet rs) throws SQLException {
+	    GrupFuncional grupFuncional = new GrupFuncional();
+	    grupFuncional.setId(rs.getInt("id"));
+	    grupFuncional.setNom(rs.getString("nom"));
+	    grupFuncional.setDescripcio(rs.getString("descripcio"));
+	    grupFuncional.setEstat(rs.getBoolean("estat"));
+	    return grupFuncional;
+	}
+	
+	protected Professio processRowProfessio(ResultSet rs) throws SQLException {
+	    Professio professio = new Professio();
+	    professio.setId(rs.getInt("id"));
+	    professio.setNom(rs.getString("nom"));
+	    professio.setDescripcio(rs.getString("descripcio"));
+	    professio.setEstat(rs.getBoolean("estat"));
+	    return professio;
+	}
+    
+    private Servei processRowServei(ResultSet rs) throws SQLException {
+    	Servei servei = new Servei();
+	    servei.setId(rs.getInt("id"));
+	    servei.setNom(rs.getString("nom"));
+	    servei.setDescripcio(rs.getString("descripcio"));
+	    servei.setEstat(rs.getBoolean("estat"));
+	    return servei;
+	}
+    private TipusServei processRowTipusServei(ResultSet rs) throws SQLException {
+    	TipusServei tipusServei = new TipusServei();
+	    tipusServei.setId(rs.getInt("id"));
+	    tipusServei.setNom(rs.getString("nom"));
+	    tipusServei.setDescripcio(rs.getString("descripcio"));
+	    tipusServei.setEstat(rs.getBoolean("estat"));
+	    return tipusServei;
+	}
+}

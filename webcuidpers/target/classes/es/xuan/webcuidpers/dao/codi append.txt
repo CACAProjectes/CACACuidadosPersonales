@@ -1,0 +1,36 @@
+
+	$.each(list, function(index, tipusServei) {
+		//$('#ServeisList').append('<button class="webcuidpers-menu-hor-button" id="btServei' + servei.id + '" value="' + servei.nom + '" onclick="">' + servei.nom + '</button>');
+		//<button data-toggle="collapse" href="#collapse1" type="button" class="btn webcuidpers-menu-ver-button btn-block text-left btn-sm webcuidpers-grid-1">Servicios sanitarios a personas</button>
+		$('#ServeisList').append('<div>');
+		$('#ServeisList').append('<button id="btServei' + tipusServei.id + '" data-toggle="collapse" href="#collapse' + tipusServei.id + '" type="button" class="btn webcuidpers-menu-ver-button btn-block text-left btn-sm webcuidpers-grid-1">' + tipusServei.nom + '</button>');
+		
+		$('#ServeisList').append('<div id="collapse' + tipusServei.id + '" class="collapse show" data-parent="#ServeisList">');
+		$('#ServeisList').append('<div id="collapse' + tipusServei.id + 'Int" class="card-body">');
+					
+		//alert("tipusServei " + tipusServei.id);
+		//$('#collapse1Int div').remove();
+		var listServeis = tipusServei.llistaServeis == null ? [] : (tipusServei.llistaServeis instanceof Array ? tipusServei.llistaServeis : [tipusServei.llistaServeis]);
+		$.each(listServeis, function(index1, servei) {
+			//alert("servei " + servei.id);
+			/*
+			 		<div class="custom-control custom-checkbox webcuidpers-cos-checkbox" >
+					    <input type="checkbox" class="custom-control-input" id="customCheck1" name="example1"/>
+					    <label class="custom-control-label" for="customCheck1">Atender a niños</label>
+					</div>
+			 */
+			/*
+			$('#ServeisList').append('<div class="custom-control custom-checkbox webcuidpers-cos-checkbox" >');
+			$('#ServeisList').append('<input type="checkbox" class="custom-control-input" id="customCheck' + servei.id + '" name="example' + servei.id + '"/>');
+			$('#ServeisList').append('<label class="custom-control-label" for="customCheck' + servei.id + '">' + servei.nom + '</label>');
+			$('#ServeisList').append('<div>');
+			*/
+			$('#ServeisList').append('<div class="custom-control custom-checkbox webcuidpers-cos-checkbox" >');
+			$('#ServeisList').append('<input type="checkbox" class="custom-control-input" id="customCheck1" name="example1"/>');
+			$('#ServeisList').append('<label class="custom-control-label" for="customCheck1">Atender a niños</label>');
+			$('#ServeisList').append('</div>');
+			
+		});				
+		$('#ServeisList').append('</div>');
+		$('#ServeisList').append('</div>');
+		$('#ServeisList').append('</div>');

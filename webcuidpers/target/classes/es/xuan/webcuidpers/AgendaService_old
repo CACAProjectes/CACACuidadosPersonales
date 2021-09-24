@@ -1,0 +1,89 @@
+package es.xuan.webcuidpers;
+import java.io.Serializable;
+import java.util.List;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+import es.xuan.webcuidpers.dao.CuidPersDAO;
+import es.xuan.webcuidpers.model.GrupFuncional;
+import es.xuan.webcuidpers.model.Professio;
+import es.xuan.webcuidpers.model.Servei;
+import es.xuan.webcuidpers.model.TipusServei;
+
+/*
+ * http://localhost:8080/webcuidpers/services/agenda/prova	
+ */
+/**
+ * @author Juan J. Campos
+ */
+@Path("/agenda")
+public class AgendaService_old implements Serializable {
+	private static final long serialVersionUID = 1L;
+
+	CuidPersDAO dao = new CuidPersDAO();
+	
+	/*
+	 * Prova de funcionament
+	 * http://localhost:8080/webcuidpers/services/agenda/prova
+	 */
+	@GET
+	@Produces(MediaType.TEXT_HTML)
+	@Path("/prova")
+	public String prova() {
+		return "Prova AGENDA/PROVA!";
+	}
+	/*
+	 * http://localhost:8080/webcuidpers/services/agenda/findServeis/1
+	 */
+	@GET 
+	@Path("findTipusServeis/{id}")
+	@Produces({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
+	public List<TipusServei> findTipusServeis(@PathParam("id") int pId) {
+		System.out.println("findServeis: " + pId);
+		return dao.findTipusServeisByGF(pId);
+	}
+	/*
+	 * http://localhost:8080/webcuidpers/services/agenda/findServeis/1
+	 */
+	@GET 
+	@Path("findServeis/{id}")
+	@Produces({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
+	public List<Servei> findServeis(@PathParam("id") int pId) {
+		System.out.println("findServeis: " + pId);
+		return dao.findServeisByGF(pId);
+	}
+	/*
+	 * http://localhost:8080/webcuidpers/services/agenda/findGrupsFuncionals
+	 */
+	@GET
+	@Produces({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
+	@Path("/findGrupsFuncionals")
+	public List<GrupFuncional> findGrupsFuncionals() {
+		System.out.println("findGrupsFuncionals");
+		return dao.findGrupsFuncionals();
+	}
+	/*
+	 * http://localhost:8080/webcuidpers/services/agenda/findProfessions/1
+	 */
+	@GET 
+	@Path("findProfessions/{query}")
+	@Produces({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
+	public List<Professio> findProfessions(@PathParam("query") int query) {
+		System.out.println("findProfessions: " + query);
+		return dao.findProfessions(query);
+	}
+	/*
+	 * http://localhost:8080/webcuidpers/services/agenda/findProfessions/es/1
+	 */
+	@GET 
+	@Path("findProfessionsLang/{idioma}/{id}")
+	@Produces({ MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML })
+	public List<Professio> findProfessionsLang(@PathParam("idioma") String pIdioma, @PathParam("id") int pIdGF) {
+		System.out.println("findProfessions: " + pIdioma + " - " + pIdGF);
+		return dao.findProfessionsLang(pIdioma, pIdGF);
+	}
+}
