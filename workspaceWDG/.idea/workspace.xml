@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="156ad1a9-0301-44de-bf27-12dee8543a0c" name="Default Changelist" comment="Jornades a RFEVB">
+      <change afterPath="$PROJECT_DIR$/../img/logo_quironsalud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_logo_quironsalud-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_logo_quironsalud.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_logo_quironsalud_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_logo_quironsalud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_logo_quironsalud_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_logo_quironsalud_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_logo_quironsalud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_logo_quironsalud_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_logo_quironsalud_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_logo_quironsalud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_logo_quironsalud_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_logo_quironsalud_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_logo_quironsalud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_logo_quironsalud_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_logo_quironsalud_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_logo_quironsalud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_logo_quironsalud_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_logo_quironsalud_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_logo_quironsalud_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentació/2a-divisio-infantil-femenina-2122.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentació/2a-divisio-infantil-femenina-2122_a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentació/2a-divisio-infantil-femenina-2122_b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentació/2a-divisio-infantil-femenina-2122_c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentació/2a-divisio-infantil-femenina-2122_simple.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentació/PLA-2IF_2122.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentació/Pàgina WEB FCVB.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentació/URL varias.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentació/prova.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/AppVoleiWDG.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/AppVoleiWDG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/AppVoleiWDGConfigureActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/AppVoleiWDGConfigureActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/view/Vista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/app_volei_w_d_g_configure.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_cuidpers_w_d_g_configure.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/app_w_g_volei.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_w_g_cuidpers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_xarxes_socials.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_xarxes_socials.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/w_g_volei.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/w_g_cuidpers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v14/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-v14/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/app_volei_w_d_g_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/app_volei_w_d_g_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/w_g_volei_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/w_g_volei_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/Prova.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/model/Arbitre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/model/Arbitres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/model/Filtre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/model/FiltreConf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/model/Partit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/model/Partits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/model/Pavello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/model/ReportEquip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/model/Resultat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/model/Torneig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/model/Tornejos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/varis/Base64.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/varis/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/varis/Serializar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/es/xuan/cacavoleiwdg/varis/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspaceEclipse/WebJSON/src/module-info.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[d965d0ae0404]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\Juanje\AndroidStudioProjects\CACAKeystore.jks" />
+    <option name="KEY_ALIAS" value="keyCACA" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hpKpnoPSciZ1ZJmBSRrvSAoBN1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="app" />
+    <property name="BundleExportedModule" value="app" />
+    <property name="ExportApk.ApkPath" value="C:\Juanje\AndroidStudioProjects" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java/es/xuan/cacavoleiwdg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/values" />
+    <property name="recommended.upgrade.do.not.ask.for.version" value="7.0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="Temporada21-22" />
+    </force-push-targets>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="es.xuan.cacavoleiwdg.migracio" />
+      <recent name="es.xuan.cacavoleiwdg" />
+    </key>
+    <key name="android.template.-435510291">
+      <recent name="es.xuan.cacavoleiwdg" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CACAProjectes\CACAVoleiWDG\workspace\app\src\main\res\values" />
+      <recent name="C:\Projectes\CACAVoleiWDG\app\src\main\res\values-v14" />
+      <recent name="C:\Juanje\AndroidStudioProjects\CACAVoleiWDG\app\src\main\res\layout" />
+      <recent name="C:\Juanje\AndroidStudioProjects\CACAVoleiWDG\app\src\main\res" />
+      <recent name="C:\Juanje\AndroidStudioProjects\CACAVoleiWDG\app\src\main\java\es\xuan\cacavoleiwdg" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Juanje\AndroidStudioProjects\CACAVoleiWDG\app\src\main\res\layout" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="es.xuan.cacavoleiwdg.migracio" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="es.xuan.cacavoleiwdg.view" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="CACAVoleiWDG.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="156ad1a9-0301-44de-bf27-12dee8543a0c" name="Default Changelist" comment="" />
+      <created>1600702778250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600702778250</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Jornades a RFEVB">
+      <created>1634135762208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634135762208</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Jornades a RFEVB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jornades a RFEVB" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/migracio/VBMigracioFCVB.java</url>
+          <line>406</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/AppVoleiWDG.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="pTorneig.getUrlPrincipal()" />
+        <watch expression="p_partitsRes.get(iPartit).getEquipLocal()" />
+        <watch expression="p_partitsRes.get(iPartit).getEquipVisitant()" />
+        <watch expression="iJornada" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
