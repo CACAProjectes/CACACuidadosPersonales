@@ -13,7 +13,7 @@
         android:orientation="horizontal">
 
     <TextView
-        android:id="@+id/tvDia11"
+        android:id="@+id/tvDia42"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:fontFamily="monospace"
@@ -28,7 +28,7 @@
         android:orientation="vertical">
 
         <ImageView
-            android:id="@+id/ivMenjador11"
+            android:id="@+id/ivMenjador42"
             android:layout_width="4mm"
             android:layout_height="4mm"
             android:layout_weight="1"
@@ -36,7 +36,7 @@
             android:src="@mipmap/ic_menjador" />
 
         <TextView
-            android:id="@+id/tvTorn11"
+            android:id="@+id/tvTorn42"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="monospace"

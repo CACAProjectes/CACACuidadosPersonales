@@ -19,7 +19,7 @@
         android:fontFamily="monospace"
         android:gravity="right|center_vertical"
         android:text="00"
-        android:textColor="@color/colorBlack"
+        android:textColor="@color/colorDiaFluix"
         android:textSize="4mm" />
 
     <LinearLayout

@@ -13,14 +13,7 @@
     <string name="urlTwitter">https://twitter.com/CaCaApps</string>
     <string name="urlInstagram">https://www.instagram.com/cacaprojectsapps/</string>
     <string name="urlHGC">https://www.clubquironsalud.es/login-input.action</string>
-    <string name="ini_titol">TITOL</string>
-    <string name="dilluns">dl.</string>
-    <string name="dimarts">dm.</string>
-    <string name="dimecres">dc.</string>
-    <string name="dijous">dj.</string>
-    <string name="divendres">dv.</string>
-    <string name="dissabte">ds.</string>
-    <string name="diumenge">dg.</string>
+    <string name="ini_titol">[MES] [ANY]</string>
     <string name="tvCategoria">Categoria:</string>
     <string name="tvTextCategoria">HGC</string>
 

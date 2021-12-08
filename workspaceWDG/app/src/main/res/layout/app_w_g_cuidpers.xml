@@ -8,16 +8,18 @@
 
      <LinearLayout
          android:layout_width="match_parent"
-         android:layout_height="match_parent"
+         android:layout_height="wrap_content"
          android:background="@color/colorFons"
          android:gravity="bottom|center_horizontal"
          android:orientation="vertical">
+
          <LinearLayout
              android:layout_width="match_parent"
              android:layout_height="wrap_content"
              android:background="@color/colorLectiu"
              android:gravity="center_horizontal"
              android:orientation="vertical">
+
              <TextView
                  android:id="@+id/tvTitolMes"
                  android:layout_width="match_parent"
@@ -27,9 +29,9 @@
                  android:fontFamily="monospace"
                  android:gravity="center_horizontal"
                  android:text="@string/ini_titol"
-                 android:textColor="@color/colorWhite"
+                 android:textColor="@color/colorTitolText"
                  android:textSize="4mm"
-                 android:textStyle="bold"/>
+                 android:textStyle="bold" />
              <!-- Dies de la setmana -->
              <LinearLayout
                  android:layout_width="match_parent"
@@ -37,12 +39,19 @@
                  android:background="@color/colorFonsDies"
                  android:gravity="top|center_horizontal"
                  android:orientation="horizontal">
+
                  <include layout="@layout/inc_celda_dia_setmana1" />
+
                  <include layout="@layout/inc_celda_dia_setmana2" />
+
                  <include layout="@layout/inc_celda_dia_setmana3" />
+
                  <include layout="@layout/inc_celda_dia_setmana4" />
+
                  <include layout="@layout/inc_celda_dia_setmana5" />
+
                  <include layout="@layout/inc_celda_dia_setmana6" />
+
                  <include layout="@layout/inc_celda_dia_setmana7" />
              </LinearLayout>
              <!-- 1a setmana de mes -->
@@ -52,12 +61,19 @@
                  android:background="@color/colorLectiu"
                  android:gravity="top|center_horizontal"
                  android:orientation="horizontal">
+
                  <include layout="@layout/inc_celda_dia11" />
+
                  <include layout="@layout/inc_celda_dia12" />
+
                  <include layout="@layout/inc_celda_dia13" />
+
                  <include layout="@layout/inc_celda_dia14" />
+
                  <include layout="@layout/inc_celda_dia15" />
+
                  <include layout="@layout/inc_celda_dia16" />
+
                  <include layout="@layout/inc_celda_dia17" />
              </LinearLayout>
              <!-- 2a setmana de mes -->
@@ -67,12 +83,19 @@
                  android:background="@color/colorLectiu"
                  android:gravity="top|center_horizontal"
                  android:orientation="horizontal">
+
                  <include layout="@layout/inc_celda_dia21" />
+
                  <include layout="@layout/inc_celda_dia22" />
+
                  <include layout="@layout/inc_celda_dia23" />
+
                  <include layout="@layout/inc_celda_dia24" />
+
                  <include layout="@layout/inc_celda_dia25" />
+
                  <include layout="@layout/inc_celda_dia26" />
+
                  <include layout="@layout/inc_celda_dia27" />
              </LinearLayout>
              <!-- 3a setmana de mes -->
@@ -82,12 +105,19 @@
                  android:background="@color/colorLectiu"
                  android:gravity="top|center_horizontal"
                  android:orientation="horizontal">
+
                  <include layout="@layout/inc_celda_dia31" />
+
                  <include layout="@layout/inc_celda_dia32" />
+
                  <include layout="@layout/inc_celda_dia33" />
+
                  <include layout="@layout/inc_celda_dia34" />
+
                  <include layout="@layout/inc_celda_dia35" />
+
                  <include layout="@layout/inc_celda_dia36" />
+
                  <include layout="@layout/inc_celda_dia37" />
              </LinearLayout>
              <!-- 4a setmana de mes -->
@@ -97,12 +127,19 @@
                  android:background="@color/colorLectiu"
                  android:gravity="top|center_horizontal"
                  android:orientation="horizontal">
+
                  <include layout="@layout/inc_celda_dia41" />
+
                  <include layout="@layout/inc_celda_dia42" />
+
                  <include layout="@layout/inc_celda_dia43" />
+
                  <include layout="@layout/inc_celda_dia44" />
+
                  <include layout="@layout/inc_celda_dia45" />
+
                  <include layout="@layout/inc_celda_dia46" />
+
                  <include layout="@layout/inc_celda_dia47" />
              </LinearLayout>
              <!-- 5a setmana de mes -->
@@ -112,12 +149,19 @@
                  android:background="@color/colorLectiu"
                  android:gravity="top|center_horizontal"
                  android:orientation="horizontal">
+
                  <include layout="@layout/inc_celda_dia51" />
+
                  <include layout="@layout/inc_celda_dia52" />
+
                  <include layout="@layout/inc_celda_dia53" />
+
                  <include layout="@layout/inc_celda_dia54" />
+
                  <include layout="@layout/inc_celda_dia55" />
+
                  <include layout="@layout/inc_celda_dia56" />
+
                  <include layout="@layout/inc_celda_dia57" />
              </LinearLayout>
              <!-- 6a setmana de mes -->
@@ -127,16 +171,24 @@
                  android:background="@color/colorLectiu"
                  android:gravity="top|center_horizontal"
                  android:orientation="horizontal">
+
                  <include layout="@layout/inc_celda_dia61" />
+
                  <include layout="@layout/inc_celda_dia62" />
+
                  <include layout="@layout/inc_celda_dia63" />
+
                  <include layout="@layout/inc_celda_dia64" />
+
                  <include layout="@layout/inc_celda_dia65" />
+
                  <include layout="@layout/inc_celda_dia66" />
+
                  <include layout="@layout/inc_celda_dia67" />
              </LinearLayout>
 
          </LinearLayout>
+
          <LinearLayout
              android:layout_width="match_parent"
              android:layout_height="wrap_content"

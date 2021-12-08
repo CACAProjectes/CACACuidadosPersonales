@@ -21,7 +21,7 @@
                 android:layout_height="match_parent"
                 android:fontFamily="monospace"
                 android:gravity="center_horizontal|center_vertical"
-                android:text="@string/dijous"
+                android:text="dj"
                 android:textColor="@color/colorWhite"
                 android:textStyle="bold"
                 android:textSize="3mm" />
