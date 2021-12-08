@@ -1,20 +1,19 @@
 <resources>
     <string name="app_name">CACACuidPersWDG</string>
     <string name="appwidget_text">CACACuidPers</string>
-    <string name="configure">Configuració</string>
     <string name="add_widget">Afegir widget</string>
-    <string name="tvIdWidget">Id Widget:</string>
+    <string name="ini_titol">[MES] [ANY]</string>
     <string name="tvEmail">Email:</string>
     <string name="titol_configuracio">CACACuidPers Configuració</string>
-    <string name="tvTextEmail">persona@gmail.com</string>
+    <string name="tvTextEmail">campospulido@gmail.com</string>
+    <string name="tvCategoria">Categoria:</string>
+    <string name="tvTextCategoria">HGC</string>
     <!--    URLs xarxes socials    -->
     <string name="urlGmail">mailto:cacaprojectsapps@gmail.com?Subject=Comentaris CACAVolei</string>
     <string name="urlFacebook">https://www.facebook.com/cacaprojects.app.9/</string>
     <string name="urlTwitter">https://twitter.com/CaCaApps</string>
     <string name="urlInstagram">https://www.instagram.com/cacaprojectsapps/</string>
     <string name="urlHGC">https://www.clubquironsalud.es/login-input.action</string>
-    <string name="ini_titol">[MES] [ANY]</string>
-    <string name="tvCategoria">Categoria:</string>
-    <string name="tvTextCategoria">HGC</string>
+
 
 </resources>
