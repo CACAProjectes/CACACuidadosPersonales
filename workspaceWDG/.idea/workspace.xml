@@ -14,266 +14,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="156ad1a9-0301-44de-bf27-12dee8543a0c" name="Default Changelist" comment="Jornades a RFEVB">
-      <change afterPath="$PROJECT_DIR$/../Documentació/img/menjador.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Documentació/img/menjador_fosc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/.circleci/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/.github/workflows/copy-branch.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/.google/packaging.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/androidTest/java/com/example/android/databinding/basicsample/BasicUsageTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/data/ObservableFieldProfile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/data/ProfileObservableViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/ui/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/ui/ObservableFieldActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/ui/ViewModelActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/util/BindingAdapters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/util/BindingConverters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/util/BindingMethods.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/util/ObservableViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/drawable/ic_person_black_96dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/drawable/ic_whatshot_black_96dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/layout/observable_field_profile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/layout/viewmodel_profile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/test/java/com/example/android/databinding/basicsample/data/ProfileObservableViewModelTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/screenshots/screenshotbasic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/.google/packaging.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/androidTest/java/com/example/android/databinding/twowaysample/BasicUsageTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/data/IntervalTimerViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/data/IntervalTimerViewModelFactory.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/ui/AnimationBindingAdapters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/ui/BindingAdapters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/ui/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/ui/NumberOfSetsBindingAdapters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/util/Converter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/util/ObservableViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/util/TimerWrapper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/layout/interval_timer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/values/tags.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/test/java/com/example/android/databinding/twowaysample/data/IntervalTimerViewModelTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/screenshots/screenshot2way.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_databinding_adapters_7_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_databinding_baseLibrary_7_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_databinding_library_7_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_databinding_viewbinding_7_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/ic_menjador-playstore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/ic_menjador_fosc-playstore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia35.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia37.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia42.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia43.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia44.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia45.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia46.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia51.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia52.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia53.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia55.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia56.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia57.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia61.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia62.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia63.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia65.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia66.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia67.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia_setmana1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia_setmana2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia_setmana3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia_setmana4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia_setmana5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia_setmana6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia_setmana7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_menjador.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_menjador_fosc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_menjador_fosc_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_menjador_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_fosc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_fosc_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_fosc_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_fosc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_fosc_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_fosc_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_fosc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_fosc_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_fosc_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_fosc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_fosc_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_fosc_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_fosc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_fosc_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_fosc_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_menjador_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_menjador_fosc_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Documentació/CACACuidPers App.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Documentació/CACACuidPers App.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/AppVoleiWDG.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/AppVoleiWDGConfigureActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/logs/LogCACA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/migracio/VBMigracio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/migracio/VBMigracioFCVB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/migracio/VBMigracioFCVB21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/migracio/VBMigracioRFEVB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/model/Arbitre.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/model/Arbitres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/model/Filtre.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/model/FiltreConf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/model/Partit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/model/Partits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/model/Pavello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/model/ReportEquip.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/model/Resultat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/model/Torneig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/model/Tornejos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/varis/Base64.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/varis/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/varis/Serializar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/es/xuan/cacavoleiwdg/varis/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/app_cuidpers_w_d_g_configure.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_cuidpers_w_d_g_configure.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/app_w_g_cuidpers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_w_g_cuidpers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/custom_autocomplete.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_xarxes_socials.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_xarxes_socials.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v14/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v14/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/app_volei_w_d_g_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/app_cuidpers_w_d_g_info.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/w_g_volei_info.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia16.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia26.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia27.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia32.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia33.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia33.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia34.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia35.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia35.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia36.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia36.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia37.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia37.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia41.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia41.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia42.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia42.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia43.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia43.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia44.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia44.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia45.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia45.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia46.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia46.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia47.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia51.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia51.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia52.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia52.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia53.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia53.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia54.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia54.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia55.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia55.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia56.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia56.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia57.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia57.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia61.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia61.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia62.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia62.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia63.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia63.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia64.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia64.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia65.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia65.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia66.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia66.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia67.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia67.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[d965d0ae0404]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -482,7 +274,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/es/xuan/cacacuidperswdg/migracio/VBMigracioFCVB.java</url>
-          <line>406</line>
+          <line>399</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>

@@ -57,12 +57,10 @@
                  <include layout="@layout/inc_celda_dia13" />
                  <include layout="@layout/inc_celda_dia14" />
                  <include layout="@layout/inc_celda_dia15" />
-
                  <include layout="@layout/inc_celda_dia16" />
-
                  <include layout="@layout/inc_celda_dia17" />
              </LinearLayout>
-             <!-- 1a setmana de mes -->
+             <!-- 2a setmana de mes -->
              <LinearLayout
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
@@ -77,7 +75,7 @@
                  <include layout="@layout/inc_celda_dia26" />
                  <include layout="@layout/inc_celda_dia27" />
              </LinearLayout>
-             <!-- 1a setmana de mes -->
+             <!-- 3a setmana de mes -->
              <LinearLayout
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
@@ -92,7 +90,7 @@
                  <include layout="@layout/inc_celda_dia36" />
                  <include layout="@layout/inc_celda_dia37" />
              </LinearLayout>
-             <!-- 1a setmana de mes -->
+             <!-- 4a setmana de mes -->
              <LinearLayout
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
@@ -107,7 +105,7 @@
                  <include layout="@layout/inc_celda_dia46" />
                  <include layout="@layout/inc_celda_dia47" />
              </LinearLayout>
-             <!-- 1a setmana de mes -->
+             <!-- 5a setmana de mes -->
              <LinearLayout
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
@@ -122,7 +120,7 @@
                  <include layout="@layout/inc_celda_dia56" />
                  <include layout="@layout/inc_celda_dia57" />
              </LinearLayout>
-             <!-- 1a setmana de mes -->
+             <!-- 6a setmana de mes -->
              <LinearLayout
                  android:layout_width="match_parent"
                  android:layout_height="wrap_content"
