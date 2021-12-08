@@ -4,7 +4,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "es.xuan.cacavoleiwdg"
+        applicationId "es.xuan.cacacuidpers"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
@@ -12,7 +12,9 @@ android {
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
-
+    dataBinding {
+        enabled true
+    }
     buildTypes {
         release {
             minifyEnabled false

@@ -7,12 +7,11 @@
     <color name="colorFons">#E5FFFC</color>
     <color name="colorTitolMes">#AFDCC8</color>
     <color name="colorTitolDies">#72C69B</color>
-    <color name="colorText">#FFFFFF</color>
+    <color name="colorTitolText">#497E63</color>
+    <color name="colorFonsDies">#497E63</color>
+    <color name="colorLectiu">#F1F1F1</color>
+    <color name="colorCapSetmana">#DADADA</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
 
-    <!-- -->
-    <color name="colorEquip">#FFEB3B</color>
-    <color name="colorTitol1">#D30000</color>
-    <color name="colorTitol2">#AC0000</color>
-    <color name="colorLinia1">#D81D5C</color>
-    <color name="colorLinia2">#E91E63</color>
 </resources>

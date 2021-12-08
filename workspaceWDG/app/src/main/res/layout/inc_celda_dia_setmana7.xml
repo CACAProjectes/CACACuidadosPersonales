@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <LinearLayout
+        android:layout_width="8.95mm"
+        android:layout_height="wrap_content"
+        android:padding="1dip"
+        android:background="@color/colorCapSetmana"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorFonsDies"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tvDiaSetmana7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="@string/diumenge"
+                android:textColor="@color/colorWhite"
+                android:textStyle="bold"
+                android:textSize="3mm" />
+
+        </LinearLayout>
+    </LinearLayout>
+</layout>
