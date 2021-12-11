@@ -1,0 +1,147 @@
+D/updateAppWidget: Inici
+D/llegirCalendars: calID: 4 - displayName: campospulido@gmail.com - accountName: campospulido@gmail.com - ownerName: campospulido@gmail.com
+W/System: A resource failed to call close. 
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - Hospitalitzacions - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-03 15:00DTEND: 2021-12-03 22:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: rh4ti0qj58io8p51ro0n0h2fds@group.calendar.google.comTITLE: CACALlarServeis - Marta - PENDENTEVENT_LOCATION: Carrer de la Música, 6, 2º-4ª, 08191 Rubí, Barcelona, EspañaDESCRIPTION: General
+        Terra
+        Banys
+        Pols
+    Altres
+        Roba
+        Microones
+        Persiana menjador
+        Cortinas menjadorDTSTART: 2021-12-03 16:30DTEND: 2021-12-03 19:30
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - Hospitalitzacions - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: MENJADOR
+    
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-04 08:00DTEND: 2021-12-04 20:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - Hospitalitzacions - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: MENJADOR
+    
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-05 08:00DTEND: 2021-12-05 20:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - Hospitalitzacions - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: MENJADOR
+    
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-08 08:00DTEND: 2021-12-08 20:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: rh4ti0qj58io8p51ro0n0h2fds@group.calendar.google.comTITLE: CACALlarServeis - Marta - PENDENTEVENT_LOCATION: Carrer de la Música, 6, 2º-4ª, 08191 Rubí, Barcelona, EspañaDESCRIPTION: General
+        Terra
+        Banys
+        Pols
+    Altres
+        Roba
+        Menjador a fonsDTSTART: 2021-12-08 16:30DTEND: 2021-12-08 19:30
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - Hospitalitzacions - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-09 15:00DTEND: 2021-12-09 22:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - Cardiologia - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-10 15:00DTEND: 2021-12-10 22:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: rh4ti0qj58io8p51ro0n0h2fds@group.calendar.google.comTITLE: CACALlarServeis - Marta - PENDENTEVENT_LOCATION: Carrer de la Música, 6, 2º-4ª, 08191 Rubí, Barcelona, EspañaDESCRIPTION: General
+        Terra
+        Banys
+        Pols
+    Altres
+        RobaDTSTART: 2021-12-10 16:00DTEND: 2021-12-10 19:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: campospulido@gmail.comTITLE: Cita prèvia - Mossos d'Esquadra - MartaEVENT_LOCATION: Calle Maria Aurelia Capmany 27 Rubi BarcelonaDESCRIPTION: Para mas informacion accede a: https://ovt.gencat.cat/gsitfc/AppJava/perciu/perciudispatch.do?returnUrl=/AppJava/tramit/queproauth.do?reqCode=authSearch&caseCode=SF138Y6NC&ordinal=1&from=cpDTSTART: 2021-12-10 17:15DTEND: 2021-12-10 17:15
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-13 15:00DTEND: 2021-12-13 22:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-15 15:00DTEND: 2021-12-15 22:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-17 15:00DTEND: 2021-12-17 22:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-18 08:00DTEND: 2021-12-18 20:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-19 08:00DTEND: 2021-12-19 20:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-20 15:00DTEND: 2021-12-20 22:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-22 15:00DTEND: 2021-12-22 22:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-24 15:00DTEND: 2021-12-24 22:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: bgjpf0rr31gttd638j2fdq2j0g@group.calendar.google.comTITLE: NadalEVENT_LOCATION: Sant Cugat del Vallès, BarcelonaDESCRIPTION: NadalDTSTART: 2021-12-25 01:00DTEND: 2021-12-26 01:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: bgjpf0rr31gttd638j2fdq2j0g@group.calendar.google.comTITLE: Sant EsteveEVENT_LOCATION: Sant Cugat del Vallès, BarcelonaDESCRIPTION: Sant EsteveDTSTART: 2021-12-26 01:00DTEND: 2021-12-27 01:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-26 08:00DTEND: 2021-12-26 20:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-27 15:00DTEND: 2021-12-27 22:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-29 15:00DTEND: 2021-12-29 22:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.google.comTITLE: HGC - ElisendaEVENT_LOCATION: Hospital Universitari General de Catalunya, Carrer Pedro i Pons, 1, 08195 Sant Cugat del Vallès, Barcelona, EspañaDESCRIPTION: -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+    No edites esta sección de la descripción.
+    
+    Este evento tiene una videollamada.
+    Unirse: https://meet.google.com/afi-wpez-cot
+    -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-DTSTART: 2021-12-31 15:00DTEND: 2021-12-31 22:00
+D/NetejaLlarApp: CALENDAR_ID: 4ORGANIZER: campospulido@gmail.comTITLE: Renovar Carnet Jove Caixabank - Marta i MiquelEVENT_LOCATION: CaixaBank, Torre Iris, Avinguda de Can Cabanyes, 08191 Rubí, Barcelona, EspañaDESCRIPTION: DTSTART: 2021-12-31 19:30DTEND: 2021-12-31 20:30
+D/omplirEvents: Nº events: 25
+D/updateAppWidget: Fi
+
+CALENDAR_ID: 4ORGANIZER: bgjpf0rr31gttd638j2fdq2j0g@group.calendar.google.comTITLE: NadalEVENT_LOCATION: Sant Cugat del Vallès, BarcelonaDESCRIPTION: NadalDTSTART: 2021-12-25 01:00DTEND: 2021-12-26 01:00ACCOUNT_NAME: campospulido@gmail.comCALENDAR_DISPLAY_NAME: campospulido@gmail.comALLOWED_REMINDERS: 0,1,2OWNER_ACCOUNT: campospulido@gmail.comCAL_SYNC1: campospulido@gmail.comCAL_SYNC2: nullCAL_SYNC3: nullCAL_SYNC4: 1CAL_SYNC5: 0

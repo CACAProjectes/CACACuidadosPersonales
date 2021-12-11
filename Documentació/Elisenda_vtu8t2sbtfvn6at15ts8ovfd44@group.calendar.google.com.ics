@@ -1,0 +1,344 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Elisenda
+X-WR-TIMEZONE:Europe/Madrid
+X-WR-CALDESC:HGC - Elisenda
+BEGIN:VEVENT
+DTSTART:20211203T140000Z
+DTEND:20211203T210000Z
+DTSTAMP:20211210T120013Z
+ORGANIZER;CN=Elisenda:mailto:vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.goog
+ le.com
+UID:2a0d0jj7u95in34n5asd1h9qk2@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ mpospulido@gmail.com;X-NUM-GUESTS=0:mailto:campospulido@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=cacapr
+ ojectsapps.cacacuidpers@gmail.com;X-NUM-GUESTS=0:mailto:cacaprojectsapps.ca
+ cacuidpers@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ isendacanalsguimera@gmail.com;X-NUM-GUESTS=0:mailto:elisendacanalsguimera@g
+ mail.com
+CREATED:20211201T224558Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/afi-wpez-cot\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20211208T155106Z
+LOCATION:Hospital Universitari General de Catalunya\, Carrer Pedro i Pons\,
+  1\, 08195 Sant Cugat del Vallès\, Barcelona\, España
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HGC - Hospitalitzacions - Elisenda
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211204T070000Z
+DTEND:20211204T190000Z
+DTSTAMP:20211210T120013Z
+ORGANIZER;CN=Elisenda:mailto:vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.goog
+ le.com
+UID:046o487bvlbulr8vvg5it3gkgd@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ mpospulido@gmail.com;X-NUM-GUESTS=0:mailto:campospulido@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=cacapr
+ ojectsapps.cacacuidpers@gmail.com;X-NUM-GUESTS=0:mailto:cacaprojectsapps.ca
+ cacuidpers@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ isendacanalsguimera@gmail.com;X-NUM-GUESTS=0:mailto:elisendacanalsguimera@g
+ mail.com
+CREATED:20211201T224834Z
+DESCRIPTION:MENJADOR\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/afi-
+ wpez-cot\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20211208T155216Z
+LOCATION:Hospital Universitari General de Catalunya\, Carrer Pedro i Pons\,
+  1\, 08195 Sant Cugat del Vallès\, Barcelona\, España
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HGC - Hospitalitzacions - Elisenda
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211205T070000Z
+DTEND:20211205T190000Z
+DTSTAMP:20211210T120013Z
+ORGANIZER;CN=Elisenda:mailto:vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.goog
+ le.com
+UID:09os25ss1f4cfpq1hspehuthv5@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ mpospulido@gmail.com;X-NUM-GUESTS=0:mailto:campospulido@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=cacapr
+ ojectsapps.cacacuidpers@gmail.com;X-NUM-GUESTS=0:mailto:cacaprojectsapps.ca
+ cacuidpers@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ isendacanalsguimera@gmail.com;X-NUM-GUESTS=0:mailto:elisendacanalsguimera@g
+ mail.com
+CREATED:20211201T224850Z
+DESCRIPTION:MENJADOR\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/afi-
+ wpez-cot\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20211208T155233Z
+LOCATION:Hospital Universitari General de Catalunya\, Carrer Pedro i Pons\,
+  1\, 08195 Sant Cugat del Vallès\, Barcelona\, España
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HGC - Hospitalitzacions - Elisenda
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211208T070000Z
+DTEND:20211208T190000Z
+DTSTAMP:20211210T120013Z
+ORGANIZER;CN=Elisenda:mailto:vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.goog
+ le.com
+UID:1bgg1s5o372frpdk78pvjmt2or@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ mpospulido@gmail.com;X-NUM-GUESTS=0:mailto:campospulido@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ isendacanalsguimera@gmail.com;X-NUM-GUESTS=0:mailto:elisendacanalsguimera@g
+ mail.com
+CREATED:20211201T225627Z
+DESCRIPTION:MENJADOR\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
+ iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/afi-
+ wpez-cot\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20211208T184820Z
+LOCATION:Hospital Universitari General de Catalunya\, Carrer Pedro i Pons\,
+  1\, 08195 Sant Cugat del Vallès\, Barcelona\, España
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HGC - Hospitalitzacions - Elisenda
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211209T140000Z
+DTEND:20211209T210000Z
+DTSTAMP:20211210T120013Z
+ORGANIZER;CN=Elisenda:mailto:vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.goog
+ le.com
+UID:6cg6et0o9c51g8543djjeep6ta@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ mpospulido@gmail.com;X-NUM-GUESTS=0:mailto:campospulido@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ isendacanalsguimera@gmail.com;X-NUM-GUESTS=0:mailto:elisendacanalsguimera@g
+ mail.com
+CREATED:20211201T225633Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/afi-wpez-cot\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20211208T184846Z
+LOCATION:Hospital Universitari General de Catalunya\, Carrer Pedro i Pons\,
+  1\, 08195 Sant Cugat del Vallès\, Barcelona\, España
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HGC - Elisenda
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211210T140000Z
+DTEND:20211210T210000Z
+DTSTAMP:20211210T120013Z
+ORGANIZER;CN=Elisenda:mailto:vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.goog
+ le.com
+UID:42c0auadevma7vv6u4k4kcg9gn@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ mpospulido@gmail.com;X-NUM-GUESTS=0:mailto:campospulido@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ isendacanalsguimera@gmail.com;X-NUM-GUESTS=0:mailto:elisendacanalsguimera@g
+ mail.com
+CREATED:20211201T225639Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/afi-wpez-cot\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20211208T184858Z
+LOCATION:Hospital Universitari General de Catalunya\, Carrer Pedro i Pons\,
+  1\, 08195 Sant Cugat del Vallès\, Barcelona\, España
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HGC - Elisenda
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211213T140000Z
+DTEND:20211213T210000Z
+DTSTAMP:20211210T120013Z
+ORGANIZER;CN=Elisenda:mailto:vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.goog
+ le.com
+UID:35qiaqu9l8o4jpi68qe9vcbd44@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ mpospulido@gmail.com;X-NUM-GUESTS=0:mailto:campospulido@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ isendacanalsguimera@gmail.com;X-NUM-GUESTS=0:mailto:elisendacanalsguimera@g
+ mail.com
+CREATED:20211201T225645Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/afi-wpez-cot\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20211208T184913Z
+LOCATION:Hospital Universitari General de Catalunya\, Carrer Pedro i Pons\,
+  1\, 08195 Sant Cugat del Vallès\, Barcelona\, España
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HGC - Elisenda
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211215T140000Z
+DTEND:20211215T210000Z
+DTSTAMP:20211210T120013Z
+ORGANIZER;CN=Elisenda:mailto:vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.goog
+ le.com
+UID:11k2hj8hcr8t9bcs7e2sm9hdhs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ mpospulido@gmail.com;X-NUM-GUESTS=0:mailto:campospulido@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ isendacanalsguimera@gmail.com;X-NUM-GUESTS=0:mailto:elisendacanalsguimera@g
+ mail.com
+CREATED:20211201T225652Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/afi-wpez-cot\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20211208T184930Z
+LOCATION:Hospital Universitari General de Catalunya\, Carrer Pedro i Pons\,
+  1\, 08195 Sant Cugat del Vallès\, Barcelona\, España
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HGC - Elisenda
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211217T140000Z
+DTEND:20211217T210000Z
+DTSTAMP:20211210T120013Z
+ORGANIZER;CN=Elisenda:mailto:vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.goog
+ le.com
+UID:1ajf32o11rvrcii250uv2auq7h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ mpospulido@gmail.com;X-NUM-GUESTS=0:mailto:campospulido@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ isendacanalsguimera@gmail.com;X-NUM-GUESTS=0:mailto:elisendacanalsguimera@g
+ mail.com
+CREATED:20211201T225658Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/afi-wpez-cot\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20211208T184948Z
+LOCATION:Hospital Universitari General de Catalunya\, Carrer Pedro i Pons\,
+  1\, 08195 Sant Cugat del Vallès\, Barcelona\, España
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HGC - Elisenda
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211218T070000Z
+DTEND:20211218T190000Z
+DTSTAMP:20211210T120013Z
+ORGANIZER;CN=Elisenda:mailto:vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.goog
+ le.com
+UID:4lu4n6eiop5k3jnob3sbn2787v@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ mpospulido@gmail.com;X-NUM-GUESTS=0:mailto:campospulido@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ isendacanalsguimera@gmail.com;X-NUM-GUESTS=0:mailto:elisendacanalsguimera@g
+ mail.com
+CREATED:20211201T225704Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/afi-wpez-cot\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20211208T185001Z
+LOCATION:Hospital Universitari General de Catalunya\, Carrer Pedro i Pons\,
+  1\, 08195 Sant Cugat del Vallès\, Barcelona\, España
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HGC - Elisenda
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211219T070000Z
+DTEND:20211219T190000Z
+DTSTAMP:20211210T120013Z
+ORGANIZER;CN=Elisenda:mailto:vtu8t2sbtfvn6at15ts8ovfd44@group.calendar.goog
+ le.com
+UID:2ikkg9fr576pc52vvffu49ns68@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ca
+ mpospulido@gmail.com;X-NUM-GUESTS=0:mailto:campospulido@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=el
+ isendacanalsguimera@gmail.com;X-NUM-GUESTS=0:mailto:elisendacanalsguimera@g
+ mail.com
+CREATED:20211201T225709Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the description.\n\nT
+ his event has a video call.\nJoin: https://meet.google.com/afi-wpez-cot\n-:
+ :~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~::~:~::-
+LAST-MODIFIED:20211208T185016Z
+LOCATION:Hospital Universitari General de Catalunya\, Carrer Pedro i Pons\,
+  1\, 08195 Sant Cugat del Vallès\, Barcelona\, España
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HGC - Elisenda
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

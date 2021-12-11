@@ -14,116 +14,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="156ad1a9-0301-44de-bf27-12dee8543a0c" name="Default Changelist" comment="Jornades a RFEVB">
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/.circleci/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/.github/workflows/copy-branch.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/.google/packaging.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/androidTest/java/com/example/android/databinding/basicsample/BasicUsageTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/data/ObservableFieldProfile.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/data/ProfileObservableViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/ui/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/ui/ObservableFieldActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/ui/ViewModelActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/util/BindingAdapters.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/util/BindingConverters.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/util/BindingMethods.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/java/com/example/android/databinding/basicsample/util/ObservableViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/drawable/ic_person_black_96dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/drawable/ic_whatshot_black_96dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/layout/observable_field_profile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/layout/viewmodel_profile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/app/src/test/java/com/example/android/databinding/basicsample/data/ProfileObservableViewModelTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/screenshots/screenshotbasic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/BasicSample/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/.google/packaging.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/androidTest/java/com/example/android/databinding/twowaysample/BasicUsageTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/data/IntervalTimerViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/data/IntervalTimerViewModelFactory.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/ui/AnimationBindingAdapters.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/ui/BindingAdapters.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/ui/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/ui/NumberOfSetsBindingAdapters.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/util/Converter.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/util/ObservableViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/java/com/example/android/databinding/twowaysample/util/TimerWrapper.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/layout/interval_timer.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/main/res/values/tags.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/app/src/test/java/com/example/android/databinding/twowaysample/data/IntervalTimerViewModelTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/screenshots/screenshot2way.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databinding-samples-main/TwoWaySample/settings.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[d965d0ae0404]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -339,10 +238,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="app">
-        <watch expression="pTorneig.getUrlPrincipal()" />
-        <watch expression="p_partitsRes.get(iPartit).getEquipLocal()" />
-        <watch expression="p_partitsRes.get(iPartit).getEquipVisitant()" />
-        <watch expression="iJornada" />
+        <watch expression="str" />
       </configuration>
     </watches-manager>
   </component>
