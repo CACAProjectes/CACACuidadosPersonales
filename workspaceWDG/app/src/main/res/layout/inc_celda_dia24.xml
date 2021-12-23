@@ -34,6 +34,13 @@
             android:layout_weight="1"
             android:visibility="invisible"
             android:src="@mipmap/ic_menjador" />
+        <ImageView
+            android:id="@+id/ivBaixa24"
+            android:layout_width="4mm"
+            android:layout_height="4mm"
+            android:layout_weight="1"
+            android:visibility="gone"
+            android:src="@mipmap/ic_baixa_medica_2" />
 
         <TextView
             android:id="@+id/tvTorn24"

@@ -4,8 +4,8 @@
     android:initialKeyguardLayout="@layout/app_w_g_cuidpers"
     android:initialLayout="@layout/app_w_g_cuidpers"
     android:minWidth="320dp"
-    android:minHeight="320dp"
+    android:minHeight="256dp"
     android:previewImage="@mipmap/ic_launcher_round"
     android:resizeMode="horizontal|vertical"
-    android:updatePeriodMillis="43200000"
+    android:updatePeriodMillis="7200000"
     android:widgetCategory="home_screen"></appwidget-provider>

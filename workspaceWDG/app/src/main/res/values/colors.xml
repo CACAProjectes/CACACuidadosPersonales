@@ -13,8 +13,20 @@
     <color name="colorCapSetmana">#DADADA</color>
     <color name="colorDiaFluix">#B4B4B4</color>
     <color name="colorWhite">#FFFFFF</color>
-    <color name="colorBlack">#000000</color>
     <color name="colorLaboralFestiu">#E91E63</color>
     <color name="colorFestiu">#FF1100</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackFluix">#B4B4B4</color>
+    <color name="colorFucsia">#FF6C9E</color>
+    <color name="colorFucsiaFluix">#FFADC9</color>
+    <color name="colorBlau">#3700B3</color>
+    <color name="colorBlauFluix">#80B9FF</color>
+    <color name="colorVermell">#FF0000</color>
+    <color name="colorVermellFluix">#FF8080</color>
+    <color name="colorTaronja">#FF9800</color>
+    <color name="colorTaronjaFluix">#FFCC80</color>
+
+    <color name="colorAvui">#00E16E</color>
 
 </resources>

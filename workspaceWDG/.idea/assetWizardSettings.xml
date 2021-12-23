@@ -24,7 +24,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\jcamposp\AppData\Local\Temp\6\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="C:\Users\jcamposp\AppData\Local\Temp\2\ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -68,7 +68,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\jcamposp\AppData\Local\Temp\6\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="C:\Users\jcamposp\AppData\Local\Temp\2\ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -80,7 +80,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\CACAProjectes\CACACuidadosPersonales\Documentació\img\menjador_fosc.png" />
+                                                <entry key="imagePath" value="C:\CACAProjectes\CACACuidadosPersonales\Documentació\img\logo_quironsalud_red.png" />
                                                 <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
@@ -114,8 +114,8 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="fafafa" />
-                                      <entry key="outputName" value="ic_menjador_fosc" />
+                                      <entry key="backgroundColor" value="ffffff" />
+                                      <entry key="outputName" value="ic_logo_app" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -132,7 +132,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\jcamposp\AppData\Local\Temp\6\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="C:\Users\jcamposp\AppData\Local\Temp\2\ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -176,7 +176,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\jcamposp\AppData\Local\Temp\6\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="C:\Users\jcamposp\AppData\Local\Temp\2\ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -240,7 +240,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="imagePath" value="C:\Users\jcamposp\AppData\Local\Temp\6\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="C:\Users\jcamposp\AppData\Local\Temp\2\ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>

@@ -14,8 +14,135 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="156ad1a9-0301-44de-bf27-12dee8543a0c" name="Default Changelist" comment="Jornades a RFEVB">
+      <change afterPath="$PROJECT_DIR$/../Documentació/img/baixa_medica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Documentació/img/baixa_medica_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Documentació/img/baixa_medica_2_fosc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Documentació/img/logo_quironsalud_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_baixa_medica-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_baixa_medica_2-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_baixa_medica_2_fosc-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_logo_app-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_baixa_medica.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_baixa_medica_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_baixa_medica_2_fosc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_baixa_medica_2_fosc_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_baixa_medica_2_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_baixa_medica_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_logo_app.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_logo_app_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_baixa_medica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_baixa_medica_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_baixa_medica_2_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_baixa_medica_2_fosc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_baixa_medica_2_fosc_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_baixa_medica_2_fosc_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_baixa_medica_2_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_baixa_medica_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_baixa_medica_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_logo_app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_logo_app_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_logo_app_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_baixa_medica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_baixa_medica_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_baixa_medica_2_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_baixa_medica_2_fosc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_baixa_medica_2_fosc_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_baixa_medica_2_fosc_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_baixa_medica_2_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_baixa_medica_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_baixa_medica_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_logo_app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_logo_app_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_logo_app_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_baixa_medica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_baixa_medica_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_baixa_medica_2_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_baixa_medica_2_fosc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_baixa_medica_2_fosc_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_baixa_medica_2_fosc_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_baixa_medica_2_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_baixa_medica_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_baixa_medica_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_logo_app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_logo_app_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_logo_app_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_baixa_medica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_baixa_medica_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_baixa_medica_2_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_baixa_medica_2_fosc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_baixa_medica_2_fosc_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_baixa_medica_2_fosc_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_baixa_medica_2_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_baixa_medica_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_baixa_medica_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_logo_app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_logo_app_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_logo_app_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_baixa_medica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_baixa_medica_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_baixa_medica_2_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_baixa_medica_2_fosc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_baixa_medica_2_fosc_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_baixa_medica_2_fosc_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_baixa_medica_2_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_baixa_medica_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_baixa_medica_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_logo_app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_logo_app_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_logo_app_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_baixa_medica_2_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_baixa_medica_2_fosc_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_baixa_medica_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_logo_app_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentació/CACACuidPers App.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Documentació/CACACuidPers App.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia14.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia16.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia26.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia27.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia27.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia32.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia33.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia33.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia34.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia35.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia35.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia36.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia36.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia37.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia37.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia41.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia41.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia42.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia42.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia43.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia43.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia44.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia44.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia45.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia45.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia46.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia46.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia47.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia51.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia51.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia52.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia52.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia53.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia53.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia54.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia54.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia55.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia55.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia56.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia56.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia57.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia57.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia61.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia61.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia62.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia62.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia63.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia63.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia64.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia64.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia65.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia65.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia66.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia66.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia67.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia67.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_xarxes_socials.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_xarxes_socials.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/app_cuidpers_w_d_g_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/app_cuidpers_w_d_g_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +211,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java/es/xuan/cacacuidperswdg" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CACANetejaLlar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CACAVoleiWDG/workspace" />
     <property name="recommended.upgrade.do.not.ask.for.version" value="7.0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
@@ -238,7 +365,9 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="app">
-        <watch expression="str" />
+        <watch expression="pStartDate.getTime()" />
+        <watch expression="(calIni.get(Calendar.HOUR_OF_DAY)" />
+        <watch expression="calFi.get(Calendar.HOUR_OF_DAY)" />
       </configuration>
     </watches-manager>
   </component>
