@@ -17,6 +17,7 @@
     <color name="colorFestiu">#FF1100</color>
 
     <color name="colorBlack">#000000</color>
+    <color name="colorFosc">#878787</color>
     <color name="colorBlackFluix">#B4B4B4</color>
     <color name="colorFucsia">#FF6C9E</color>
     <color name="colorFucsiaFluix">#FFADC9</color>
@@ -27,6 +28,6 @@
     <color name="colorTaronja">#FF9800</color>
     <color name="colorTaronjaFluix">#FFCC80</color>
 
-    <color name="colorAvui">#00E16E</color>
+    <color name="colorAvui">#00A852</color>
 
 </resources>

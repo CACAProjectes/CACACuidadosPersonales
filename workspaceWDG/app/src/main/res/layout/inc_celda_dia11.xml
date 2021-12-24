@@ -10,7 +10,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/colorCapSetmana"
+        android:background="@color/colorLectiu"
         android:orientation="horizontal">
 
         <TextView
@@ -20,7 +20,7 @@
             android:fontFamily="monospace"
             android:gravity="right|center_vertical"
             android:text="00"
-            android:textColor="@color/colorDiaFluix"
+            android:textColor="@color/colorBlack"
             android:textSize="4mm" />
 
         <LinearLayout
