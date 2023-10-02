@@ -14,55 +14,168 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="156ad1a9-0301-44de-bf27-12dee8543a0c" name="Default Changelist" comment="Jornades a RFEVB">
-      <change beforePath="$PROJECT_DIR$/../Documentació/img/menjador.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Documentació/img/menjador.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Documentació/img/menjador_fosc.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Documentació/img/menjador_fosc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Documentació/WhatsApp Image 2022-01-22 at 13.40.25.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Documentació/WhatsApp Image 2022-02-02 at 10.09.16.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Documentació/WhatsApp Image 2022-02-02 at 10.09.42.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.navigator.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.15.0.20191217-1149.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/lib/jackson-core-asl-1.8.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/lib/jackson-jaxrs-1.8.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/lib/jackson-mapper-asl-1.8.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/lib/jackson-xc-1.8.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/lib/jstl-api-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/lib/mysql-connector-java-8.0.23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/lib/standard-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/AgendaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/AgendaService_old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/EventsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/ConnectionHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/CuidPersDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/CuidPersDAO.java.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/codi append-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/codi append.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/cuidpersbbdd_CREATE - copia.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/cuidpersbbdd_CREATE.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/cuidpersbbdd_INSERT - copia.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/cuidpersbbdd_INSERT.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/cuidpersbbdd_INSERT_old.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/cuidpersbbdd_SELECT - copia.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/cuidpersbbdd_SELECT.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/dao/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/model/Agenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/model/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/model/GrupFuncional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/model/Informacio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/model/MissatgeServei.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/model/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/model/Professio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/model/Professional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/model/Resultat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/model/Servei.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/java/es/xuan/webcuidpers/model/TipusServei.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/resources/webcuidpers.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/resources/webcuidpers_en_US.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/resources/webcuidpers_es_ES.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/botons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/css/webcuidpers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/css/webcuidpers_old.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/foto/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/foto/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/foto/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/foto/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/foto/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/agenda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/ca-CA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/cercar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/clients.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/en-EN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/es-ES.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/esborrar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/flag_ko.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/flag_ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/flag_targeta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/flag_targeta_blau.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/flag_targeta_groc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/flag_targeta_verd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/informacio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/logo_webcuidpers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/professionals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/punt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/img/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/js/agenda.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/js/entrada.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/js/jquery.session.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/js/nouServei.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/js/proves.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/js/resultat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/jsp/agenda.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/jsp/agenda_old.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/jsp/agenda_old2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/jsp/entrada.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/jsp/nouServei.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/jsp/nouServei_old3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/jsp/proves.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/main/webapp/jsp/resultat.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/es/xuan/webcuidpers/AgendaService_old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/es/xuan/webcuidpers/dao/CuidPersDAO.java.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/es/xuan/webcuidpers/dao/codi append-2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/es/xuan/webcuidpers/dao/codi append.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/es/xuan/webcuidpers/dao/cuidpersbbdd_CREATE - copia.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/es/xuan/webcuidpers/dao/cuidpersbbdd_CREATE.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/es/xuan/webcuidpers/dao/cuidpersbbdd_INSERT - copia.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/es/xuan/webcuidpers/dao/cuidpersbbdd_INSERT.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/es/xuan/webcuidpers/dao/cuidpersbbdd_INSERT_old.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/es/xuan/webcuidpers/dao/cuidpersbbdd_SELECT - copia.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/es/xuan/webcuidpers/dao/cuidpersbbdd_SELECT.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/es/xuan/webcuidpers/dao/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/webcuidpers.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/webcuidpers_en_US.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/classes/webcuidpers_es_ES.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/m2e-wtp/web-resources/META-INF/maven/es.xuan/webcuidpers/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/target/m2e-wtp/web-resources/META-INF/maven/es.xuan/webcuidpers/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/ic_menjador-playstore.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/ic_menjador-playstore.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/ic_menjador_fosc-playstore.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/ic_menjador_fosc-playstore.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/app_w_g_cuidpers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_w_g_cuidpers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/inc_celda_dia11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_fosc.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_fosc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_fosc_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_fosc_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_fosc_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_fosc_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_menjador_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_fosc.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_fosc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_fosc_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_fosc_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_fosc_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_fosc_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_menjador_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_fosc.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_fosc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_fosc_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_fosc_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_fosc_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_fosc_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menjador_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_fosc.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_fosc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_fosc_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_fosc_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_fosc_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_fosc_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_menjador_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_fosc.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_fosc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_fosc_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_fosc_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_fosc_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_fosc_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_menjador_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/ic_menjador_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_menjador_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/ic_menjador_fosc_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_menjador_fosc_background.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[d965d0ae0404]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -124,9 +237,9 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java/es/xuan/cacacuidperswdg" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CACAVoleiWDG/workspace" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CACABTConn" />
     <property name="recommended.upgrade.do.not.ask.for.version" value="7.0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="gradle.compiler" />
   </component>
   <component name="Push.Settings">
     <force-push-targets>
@@ -273,6 +386,16 @@
           <url>file://$PROJECT_DIR$/app/src/main/java/es/xuan/cacacuidperswdg/migracio/VBMigracioFCVB.java</url>
           <line>399</line>
           <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/es/xuan/cacacuidperswdg/events/Esdeveniment.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/es/xuan/cacacuidperswdg/events/Esdeveniment.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
